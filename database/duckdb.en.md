@@ -4,7 +4,7 @@
 
 ### Python usage
 
- - Local Installation
+ - Local installation
  ```
  $ pip install duckdb
  ```
@@ -19,7 +19,32 @@
 ### Access
 
   - 1) Hugging Face dataset
+    - Hugging Face access token
+    ```
+    hf_tk = 'hf_*******************'
+    ```
+    - DuckDB connection
+    ```
+    conn = duckdb.connect()
+    conn.execute("CREATE SECRET hf_token (TYPE HUGGINGFACE, TOKEN {0});".format(hf_tk_data))
+    ```
+    - DuckDB HTTPFS libraries
 
+    ```
+    conn.execute("INSTALL httpfs;")
+    <duckdb.duckdb.DuckDBPyConnection object at 0x7fef109a73b0>
+    conn.execute("LOAD httpfs;") 
+    <duckdb.duckdb.DuckDBPyConnection object at 0x7fef109a73b0>    
+    ```
+
+    - DuckDB queries
+    ```
+    httpfs_ds = 'hf://datasets/strauss-oak/fin/fin-expenses.csv'
+    statement = "SELECT * FROM '{0}'".format(httpfs_ds)
+    conn.sql(statement)
+    ```
+    ```    
+    ```
 
 ### References
  - DuckDB - [https://duckdb.org/]
