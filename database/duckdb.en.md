@@ -1,3 +1,11 @@
+### Databases
+
+##### 1. DuckDB
+{% gist f0ba27058beccdb6b33b83a83ca1b5b0 %}
+
+
+
+
 ### DuckDB 
  - A in-process analytical database.
  - DuckDB v1.0.0 was released in June 2024.
