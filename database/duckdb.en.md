@@ -8,6 +8,11 @@
 {% gist f0ba27058beccdb6b33b83a83ca1b5b0 %}
 
 
+<code id="gist-3167145"></code>
+
+<code id="gist-f0ba27058beccdb6b33b83a83ca1b5b0"></code>
+
+
 
 
 ### DuckDB 
