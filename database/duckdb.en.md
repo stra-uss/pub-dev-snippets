@@ -1,6 +1,10 @@
 ### Databases
 
 ##### 1. DuckDB
+
+
+<script src="https://gist.github.com/stra-uss/f0ba27058beccdb6b33b83a83ca1b5b0.js"></script>
+
 {% gist f0ba27058beccdb6b33b83a83ca1b5b0 %}
 
 
