@@ -4,8 +4,9 @@
 
 ##### 1.1 Read a Hugging Face Dataset using a DuckDB query engine
 
-<code id="gist-a2777b9eddaf5e5867dd0669c6f12b3b"></code>
+<code id="gist-f0ba27058beccdb6b33b83a83ca1b5b0"></code>
 
 
+##### 1.1 [Read a Hugging Face Dataset using a DuckDB query engine](https://gist.github.com/stra-uss/a2777b9eddaf5e5867dd0669c6f12b3b)
 
 
