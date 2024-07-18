@@ -2,15 +2,10 @@
 
 ##### 1. DuckDB
 
+##### 1.1 Read a Hugging Face Dataset using a DuckDB query engine
+<code id="gist-a2777b9eddaf5e5867dd0669c6f12b3b"></code>
 
-<script src="https://gist.github.com/stra-uss/f0ba27058beccdb6b33b83a83ca1b5b0.js"></script>
-
-{% gist f0ba27058beccdb6b33b83a83ca1b5b0 %}
-
-
-<code id="gist-3167145"></code>
-
-<code id="gist-f0ba27058beccdb6b33b83a83ca1b5b0"></code>
+##### 1.1 [Read a Hugging Face Dataset using a DuckDB query engine] (<code id="gist-a2777b9eddaf5e5867dd0669c6f12b3b"></code>)
 
 
 
