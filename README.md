@@ -2,7 +2,7 @@
 Public software development snippets index page
 
 ### 1. Databases
-- ##### 1.1 DuckDB and Hugging Face
+- ##### 1.1 DuckDB and Hugging Face Datasets
   - ###### [Read a Hugging Face dataset using a DuckDB query engine](https://gist.github.com/stra-uss/a2777b9eddaf5e5867dd0669c6f12b3b)
   - ###### [Read a encrypted parquet from Hugging Face dataset using a DuckDB query engine](https://gist.github.com/stra-uss/57dd528fd6a9729244f9dc6584e052ca)
  
