@@ -5,6 +5,7 @@ Public software development snippets index page
 - ##### 1.1 DuckDB and Hugging Face Datasets
   - ###### [Read a Hugging Face dataset using a DuckDB query engine](https://gist.github.com/stra-uss/a2777b9eddaf5e5867dd0669c6f12b3b)
   - ###### [Read a encrypted parquet from Hugging Face dataset using a DuckDB query engine](https://gist.github.com/stra-uss/57dd528fd6a9729244f9dc6584e052ca)
+  - ###### [Write a local file to Hugging Face dataset](https://gist.github.com/stra-uss/64d33a05793a961dfbdbf19652b3cdf8)
  
 ### 2. Programming Language
 -  #### 2.1 - Python
