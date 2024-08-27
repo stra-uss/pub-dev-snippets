@@ -15,4 +15,8 @@ Public software development snippets index page
     - ###### [Abstract Factory](https://gist.github.com/stra-uss/a908b6736d1bb68d5ba4effc442b62b6)
   - ###### 2.1.3 - Oriented-Object Programing
     - ###### [Reversed Class Diagram](https://gist.github.com/stra-uss/451ea21ad1234e7d647c076578fe2bb2)
-  
+   
+### 3. Operation System
+-  #### 3.1 - Linux
+  - ##### 3.1.1 - [Main Commands](https://gist.github.com/stra-uss/04a83280e778ba168162d0b3c835c2ae)
+    
