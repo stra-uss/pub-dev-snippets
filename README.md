@@ -18,5 +18,5 @@ Public software development snippets index page
    
 ### 3. Operation System
 -  #### 3.1 - Linux
-  - ##### 3.1.1 - [Main Commands](https://gist.github.com/stra-uss/04a83280e778ba168162d0b3c835c2ae)
+  - ###### 3.1.1 - [Main Commands](https://gist.github.com/stra-uss/04a83280e778ba168162d0b3c835c2ae)
     
