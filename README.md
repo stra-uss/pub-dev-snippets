@@ -17,6 +17,6 @@ Public software development snippets index page
     - ###### [Reversed Class Diagram](https://gist.github.com/stra-uss/451ea21ad1234e7d647c076578fe2bb2)
    
 ### 3. Operation System
--  #### 3.1 - Linux
+-  #### 3.1 - Linux Mint/Ubuntu
   - ###### 3.1.1 - [Main Commands](https://gist.github.com/stra-uss/04a83280e778ba168162d0b3c835c2ae)
     
