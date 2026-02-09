@@ -11,6 +11,7 @@ Public software development snippets index page
 -  #### 2.1 - Python
   - ###### 2.1.1 - Infrastructure
     - ###### [Virtual Environments](https://gist.github.com/stra-uss/912de535ebc5c59ecbfd6d2a7ff3ae9d)
+    - ###### [Packages installations](https://gist.github.com/stra-uss/b2f4711329272a35b2977a273b3de142)
   - ###### 2.1.2 - Design Patterns
     - ###### [Abstract Factory](https://gist.github.com/stra-uss/a908b6736d1bb68d5ba4effc442b62b6)
   - ###### 2.1.3 - Oriented-Object Programing
