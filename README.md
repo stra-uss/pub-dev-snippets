@@ -3,14 +3,14 @@ Public software development snippets index page
 
 ### 1. Databases
 - ##### 1.1 DuckDB and Hugging Face Datasets
-  - ###### [Read a Hugging Face dataset using a DuckDB query engine](https://gist.github.com/stra-uss/a2777b9eddaf5e5867dd0669c6f12b3b)
-  - ###### [Read a encrypted parquet from Hugging Face dataset using a DuckDB query engine](https://gist.github.com/stra-uss/57dd528fd6a9729244f9dc6584e052ca)
+  -  [Read a Hugging Face dataset using a DuckDB query engine](https://gist.github.com/stra-uss/a2777b9eddaf5e5867dd0669c6f12b3b)
+  -  [Read a encrypted parquet from Hugging Face dataset using a DuckDB query engine](https://gist.github.com/stra-uss/57dd528fd6a9729244f9dc6584e052ca)
   - ###### [Write a local file to Hugging Face dataset](https://gist.github.com/stra-uss/64d33a05793a961dfbdbf19652b3cdf8)
  
 ### 2. Software Development
 - Git
   -   [Git Basic](https://gist.github.com/stra-uss/f656dae53c5117012884590922381f42)
-  -   [Git SSH Access] (https://gist.github.com/stra-uss/e114ca3a973afffdd236a5fcc84afeb5)
+  -   [Git SSH Access](https://gist.github.com/stra-uss/e114ca3a973afffdd236a5fcc84afeb5)
 -  #### 2.2 - Python
   - ###### 2.2.1 - Infrastructure
     - ###### [Virtual Environments](https://gist.github.com/stra-uss/912de535ebc5c59ecbfd6d2a7ff3ae9d)
