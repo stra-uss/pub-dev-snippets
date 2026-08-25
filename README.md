@@ -22,6 +22,6 @@ Public software development snippets index page
     - [Abstract Class and Abstract Methods](https://gist.github.com/stra-uss/5b20c299de5069f08137d49a0b8df4f2)
    
 ### 3. Operation System
--  #### 3.1 - Linux Mint/Ubuntu
-  - 3.1.1 - [Main Commands](https://gist.github.com/stra-uss/04a83280e778ba168162d0b3c835c2ae)
+- ##### 3.1 - Linux Mint/Ubuntu
+    - 3.1.1 - [Main Commands](https://gist.github.com/stra-uss/04a83280e778ba168162d0b3c835c2ae)
     
