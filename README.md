@@ -10,7 +10,7 @@ Public software development snippets index page
 ### 2. Software Development
 - Git
   -   [Git Basic](https://gist.github.com/stra-uss/f656dae53c5117012884590922381f42)
-  -   [Git SSH Access] ()
+  -   [Git SSH Access] (https://gist.github.com/stra-uss/e114ca3a973afffdd236a5fcc84afeb5)
 -  #### 2.2 - Python
   - ###### 2.2.1 - Infrastructure
     - ###### [Virtual Environments](https://gist.github.com/stra-uss/912de535ebc5c59ecbfd6d2a7ff3ae9d)
