@@ -1,5 +1,5 @@
 ## pub-dev-snippets
-Public software development snippets index page
+Public software development and infrastructure snippets index page
 
 ### 1. Databases
 - ##### 1.1 DuckDB and Hugging Face Datasets
