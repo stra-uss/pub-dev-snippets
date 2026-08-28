@@ -6,6 +6,8 @@ Public software development and infrastructure snippets index page
   -  [Read a Hugging Face dataset using a DuckDB query engine](https://gist.github.com/stra-uss/a2777b9eddaf5e5867dd0669c6f12b3b)
   -  [Read a encrypted parquet from Hugging Face dataset using a DuckDB query engine](https://gist.github.com/stra-uss/57dd528fd6a9729244f9dc6584e052ca)
   - [Write a local file to Hugging Face dataset](https://gist.github.com/stra-uss/64d33a05793a961dfbdbf19652b3cdf8)
+- ##### 1.2 Postgres
+  - [Connection and Access](https://gist.github.com/stra-uss/708552fb9c756db7b05b1dd9e22d0ef0)
  
 ### 2. Software Development
 - ##### 2.1 Git
