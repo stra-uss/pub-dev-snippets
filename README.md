@@ -13,18 +13,42 @@ Public software development and infrastructure snippets index page
 - ##### 2.1 Git
   -   [Git Basic](https://gist.github.com/stra-uss/f656dae53c5117012884590922381f42)
   -   [Git SSH Access](https://gist.github.com/stra-uss/e114ca3a973afffdd236a5fcc84afeb5)
-- ##### 2.2 - Python
-  -  2.2.1 - Infrastructure
+- ##### 2.2 - Python Language
+  -  2.2.1 - [Python source codes examples](https://gist.github.com/stra-uss/)  
+  -  2.2.2 - Infrastructure
       -  [Virtual Environments](https://gist.github.com/stra-uss/912de535ebc5c59ecbfd6d2a7ff3ae9d)
       -  [Packages installations](https://gist.github.com/stra-uss/b2f4711329272a35b2977a273b3de142)
-  -  2.2.2 - Design Patterns
+  -  2.2.3 - Design Patterns
       -  [Abstract Factory](https://gist.github.com/stra-uss/a908b6736d1bb68d5ba4effc442b62b6)
-  - 2.2.3 - Oriented-Object Programing
+  - 2.2.4 - Oriented-Object Programing
       - [Reversed Class Diagram](https://gist.github.com/stra-uss/451ea21ad1234e7d647c076578fe2bb2)
     - [Abstract Class and Abstract Methods](https://gist.github.com/stra-uss/5b20c299de5069f08137d49a0b8df4f2)
    
-- ##### 2.3 - BASIC
-  - 2.3.1 - [Basic BASIC compiler](https://gist.github.com/stra-uss/84ddca230fbb03521b4862ed94a59f9e)
+- ##### 2.3 - BASIC Language
+  - 2.3.1 - [Basic BASIC compiler and source codes examples](https://gist.github.com/stra-uss/84ddca230fbb03521b4862ed94a59f9e)
+
+- ##### 2.4 - C Language
+  - 2.4.1 - [C source codes examples](https://gist.github.com/stra-uss/)
+  - 2.4.2 - [C++ source codes examples](https://gist.github.com/stra-uss/)
+  - 2.4.3 - [C# source codes examples](https://gist.github.com/stra-uss/)
+
+- ##### 2.5 - Java Language
+  - 2.4.1 - [Java source codes examples](https://gist.github.com/stra-uss/)
+
+- ##### 2.6 - Rust Language
+  - 2.4.1 - [Rust source codes examples](https://gist.github.com/stra-uss/)
+
+- ##### 2.7 - Fortran Language
+  - 2.4.1 - [Fortran source codes examples](https://gist.github.com/stra-uss/)
+
+- ##### 2.8 - Assemby Language
+  - 2.4.1 - [Assemby source codes examples](https://gist.github.com/stra-uss/)
+
+- ##### 2.9 - NATURAL (Mainframe) Language
+  - 2.4.1 - [NATURAL source codes examples](https://gist.github.com/stra-uss/)
+
+- ##### 2.10 - Julia Language
+  - 2.10.1 - [Julia source codes examples](https://gist.github.com/stra-uss/)
    
 ### 3. Operation System
 - ##### 3.1 - Linux Mint/Ubuntu
