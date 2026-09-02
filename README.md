@@ -48,7 +48,7 @@ Public software development and infrastructure snippets index page
   - 2.4.1 - [NATURAL source codes examples](https://gist.github.com/stra-uss/)
 
 - ##### 2.10 - Julia Language
-  - 2.10.1 - [Julia source codes examples](https://gist.github.com/stra-uss/)
+  - 2.10.1 - [Julia source codes examples](https://gist.github.com/stra-uss/cfd4ea56b33a6c427938deeb034daefe)
    
 ### 3. Operation System
 - ##### 3.1 - Linux Mint/Ubuntu
