@@ -36,7 +36,7 @@ Public software development and infrastructure snippets index page
   - 2.4.1 - [Java source codes examples](https://gist.github.com/stra-uss/)
 
 - ##### 2.6 - Rust Language
-  - 2.4.1 - [Rust source codes examples](https://gist.github.com/stra-uss/)
+  - 2.4.1 - [Rust source codes examples](https://gist.github.com/stra-uss/3ea44361ac405150e3a29f3444c05387)
 
 - ##### 2.7 - Fortran Language
   - 2.4.1 - [Fortran source codes examples](https://gist.github.com/stra-uss/)
