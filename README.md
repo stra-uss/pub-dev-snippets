@@ -33,19 +33,19 @@ Public software development and infrastructure snippets index page
   - 2.4.3 - [C# source codes examples](https://gist.github.com/stra-uss/)
 
 - ##### 2.5 - Java Language
-  - 2.4.1 - [Java source codes examples](https://gist.github.com/stra-uss/)
+  - 2.5.1 - [Java source codes examples](https://gist.github.com/stra-uss/)
 
 - ##### 2.6 - Rust Language
-  - 2.4.1 - [Rust source codes examples](https://gist.github.com/stra-uss/3ea44361ac405150e3a29f3444c05387)
+  - 2.6.1 - [Rust source codes examples](https://gist.github.com/stra-uss/3ea44361ac405150e3a29f3444c05387)
 
 - ##### 2.7 - Fortran Language
-  - 2.4.1 - [Fortran source codes examples](https://gist.github.com/stra-uss/)
+  - 2.7.1 - [Fortran source codes examples](https://gist.github.com/stra-uss/)
 
 - ##### 2.8 - Assemby Language
-  - 2.4.1 - [Assemby source codes examples](https://gist.github.com/stra-uss/)
+  - 2.8.1 - [Assemby source codes examples](https://gist.github.com/stra-uss/)
 
 - ##### 2.9 - NATURAL (Mainframe) Language
-  - 2.4.1 - [NATURAL source codes examples](https://gist.github.com/stra-uss/)
+  - 2.9.1 - [NATURAL source codes examples](https://gist.github.com/stra-uss/)
 
 - ##### 2.10 - Julia Language
   - 2.10.1 - [Julia source codes examples](https://gist.github.com/stra-uss/cfd4ea56b33a6c427938deeb034daefe)
