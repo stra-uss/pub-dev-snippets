@@ -42,7 +42,7 @@ Public software development and infrastructure snippets index page
   - 2.7.1 - [Fortran source codes examples](https://gist.github.com/stra-uss/)
 
 - ##### 2.8 - Assemby Language
-  - 2.8.1 - [Assemby source codes examples](https://gist.github.com/stra-uss/)
+  - 2.8.1 - [Assemby source codes examples](https://gist.github.com/stra-uss/935b6fc5fba352643f7748e21df9ca2c)
 
 - ##### 2.9 - NATURAL (Mainframe) Language
   - 2.9.1 - [NATURAL source codes examples](https://gist.github.com/stra-uss/)
