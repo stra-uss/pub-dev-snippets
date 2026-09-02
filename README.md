@@ -28,7 +28,7 @@ Public software development and infrastructure snippets index page
   - 2.3.1 - [Basic BASIC compiler and source codes examples](https://gist.github.com/stra-uss/84ddca230fbb03521b4862ed94a59f9e)
 
 - ##### 2.4 - C Language
-  - 2.4.1 - [C source codes examples](https://gist.github.com/stra-uss/)
+  - 2.4.1 - [C source codes examples](https://gist.github.com/stra-uss/2f8e643113d30787f3b0195ba017f5c7)
   - 2.4.2 - [C++ source codes examples](https://gist.github.com/stra-uss/)
   - 2.4.3 - [C# source codes examples](https://gist.github.com/stra-uss/)
 
