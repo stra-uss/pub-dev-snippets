@@ -21,8 +21,8 @@ Public software development and infrastructure snippets index page
       -  [Python installation](https://gist.github.com/stra-uss/90e75e875ad38362136fb34dbb04e937)
       -  [Virtual Environments](https://gist.github.com/stra-uss/912de535ebc5c59ecbfd6d2a7ff3ae9d)
       -  [Packages installations](https://gist.github.com/stra-uss/b2f4711329272a35b2977a273b3de142)
-      -  [UV - A (Rust) fast Python package and project manager](https://gist.github.com/stra-uss/142)
-        
+      -  [UV - A (Rust) fast Python package and project manager](https://gist.github.com/stra-uss/937b6a6434c02ec1b95bb9baf8817268)
+           
   -  2.2.3 - Design Patterns
       -  [Abstract Factory](https://gist.github.com/stra-uss/a908b6736d1bb68d5ba4effc442b62b6)
         
