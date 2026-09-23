@@ -31,7 +31,8 @@ Public software development and infrastructure snippets index page
       - [Abstract Class and Abstract Methods](https://gist.github.com/stra-uss/5b20c299de5069f08137d49a0b8df4f2)
   
   - 2.2.5 - Mobile Software Development
-      - [Flet - My First App Tutorial](https://gist.github.com/stra-uss/b46a2d2693fa5b182040a58290e54cdf)
+      - [Flet - Project Structure](https://gist.github.com/stra-uss/b46a2d2693fa5b182040a58290e54cdf)
+      - [Flet - My First App Tutorial](https://gist.github.com/stra-uss/bf21f9a04259e8f86cf6191389a5d6b1)
       - [Flet - My Second App Tutorial]()
       - [Flet - My Third App Tutorial]()
    
