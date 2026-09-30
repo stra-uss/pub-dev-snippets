@@ -13,6 +13,7 @@ Public software development and infrastructure snippets index page
 - ##### 2.1 Git
   -   [Git Basics](https://gist.github.com/stra-uss/f656dae53c5117012884590922381f42)
   -   [Git SSH Access](https://gist.github.com/stra-uss/e114ca3a973afffdd236a5fcc84afeb5)
+  -   [Git CODEOWNERS]
   
 - ##### 2.2 - Python Language
   -  2.2.1 - [Python source codes examples](https://gist.github.com/stra-uss/)
